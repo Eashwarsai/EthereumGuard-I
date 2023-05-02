@@ -69,10 +69,10 @@ Below are the step by step instructions to pull the repository and run it in you
   python app.py
   ```
 #Setup Firebase
-```
-create firebase app by selecting add project give a name give default account for firebase then your project will be created now click on continue select authentication and move to signin method and select email and passowrd as the selected method(enable the top toggle) select poject overview you can see ios,android and </> symbol select </> give some name tick checkbox and select register you will see add firebase sdk with a firebaseConfig defined copy the variable and replace it with the one in config/firebase.ts click on continue till end .
 
-```
+create firebase app by selecting add project give a name give default account for firebase then your project will be created now click on continue select authentication and move to signin method and select email and passowrd as the selected method(enable the top toggle) select poject overview you can see  </> symbol right below projectname select </> give some name tick checkbox and select register you will see add firebase sdk with a firebaseConfig defined copy the variable and replace it with the one in config/firebase.ts click on continue till end .
+
+
 # Upcoming implementations
 - [ ] Wanted to extract parameters from etherscan inorder have universal appeal.
 - [ ] Add a flag button to the UI to allow users to report addresses.
