@@ -20,31 +20,53 @@ Below are the step by step instructions to pull the repository and run it in you
   
   1. Clone the repository into your local drive
   ```
-  git clone 
+  git clone https://github.com/Eashwarsai/EthereumGuard-I.git
   ```
-  2. Open the folder in your IDE or Terminal then move to backend folder
-  ```
-  cd server
-  ```
-  3. pip installations...
-  ```
-  some will be there..
-  ```
-  4. Start the server
-  ```
-  python app.py
-  ```
-  5.Open another terminal and moveback to main folder
-  ```
-  cd ..
-  ```
-  6.Intall node modules //something necesarry for nextjs application
+  2.Move to cloned directly and Install Node modules
   ```
   npm install
   ```
-  7.Start the Nextjs app
+  3.Start your nextjs application
   ```
   npm run dev
+  ```
+  4.Move to server
+  ```
+  cd server
+  ```
+  5.Install python and pip (ignore if exists)
+  
+  6.Install numpy
+  ```
+  pip install numpy
+  ```
+   7.Install flask
+  ```
+  pip install flask
+  ```
+  8.Install joblib
+  ```
+  pip install joblib
+  ```
+  9.Install pandas
+  ```
+  pip install pandas
+  ```
+  10.Install flask_cors
+  ```
+  pip install flask_cors
+  ```
+  11.Install imblearn
+  ```
+  pip install imblearn
+  ```
+  12.Install xgboost
+  ```
+  pip install xgboost
+  ```
+  13. Start the server
+  ```
+  python app.py
   ```
 # Upcoming implementations
 - [ ] Wanted to extract parameters from etherscan inorder have universal appeal.
