@@ -1,7 +1,7 @@
 # EthereumGuard-I 
 Ethereum address fraud detection application
 
-When we want to send some ethers to an address we would want to know whether the address is a genuine address or fraudualent one which helps users to stay secured from scams .
+When we want to send some ethers to an address we would want to know whether the address is a genuine address or fraudualent one which helps users to stay secured from scams this application provides us with the information of being fraudalent or genuine based on a list of parameters like ERC20 tokens , no.of transaction , min transactions , avg transactions... so on.
 
 # Built-With 
 - Nextjs
