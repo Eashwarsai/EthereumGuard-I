@@ -12,6 +12,7 @@ Ethereum address fraud detection application
  LSTM : https://colab.research.google.com/drive/1ubQdNhkUhmJOszrW1iJu9lL8UOh95iPk?usp=sharing
 ```
 XGBOOST : https://colab.research.google.com/drive/1bSP5fBCoTuN6Zrp6SAMaHxcHMAAUceSC#scrollTo=Lhu5iBTDOXa0
+```
 
 # Installation
 Below are the step by step instructions to pull the repository and run it in your system locally:
